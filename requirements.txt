@@ -3,3 +3,4 @@ langchain==0.0.225
 streamlit==1.24.0
 streamlit_chat==0.1.1
 bs4==0.0.1
+youtube-transcript-api==0.6.1
