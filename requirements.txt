@@ -6,3 +6,4 @@ bs4==0.0.1
 youtube-transcript-api==0.6.1
 pytube==15.0.0
 tiktoken==0.5.2
+PyPDF2==3.0.1
